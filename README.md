@@ -11,6 +11,7 @@ Build classification models capable of predicting cluster membership.
 Compare multiple classification approaches and perform hyperparameter tuning.
 
 This project was developed as part of the Machine Learning learning pathway and demonstrates practical implementation of clustering, dimensionality reduction, classification, and model evaluation.
+
 ---
 ## Dataset
 The dataset contains transaction-related information, customer demographics, and financial activity patterns.
@@ -73,6 +74,7 @@ Generated models:
 `decision_tree_model.h5
 explore_Umar_Shidiq_Ibadurrohman_classification.h5
 tuning_classification.h5`
+
 ---
 ## Project Structure
 .
@@ -85,6 +87,7 @@ tuning_classification.h5`
 ├── tuning_classification.h5
 ├── [Clustering]_Submission_Akhir_BMLP_Umar_Shidiq_Ibadurrohman.ipynb
 └── [Klasifikasi]_Submission_Akhir_BMLP_Umar_Shidiq_Ibadurrohman.ipynb
+
 ---
 ## Technologies Used
 - Python
@@ -108,6 +111,7 @@ Through this project, I gained hands-on experience in:
 - Classification Modeling
 - Hyperparameter Optimization
 - Machine Learning Model Deployment Preparation
+
 ---
 ##Results
 The project successfully demonstrates how clustering can be used to generate meaningful labels from unlabeled data and how those labels can subsequently be leveraged to train supervised machine learning models for future prediction tasks.
