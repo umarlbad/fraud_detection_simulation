@@ -54,8 +54,10 @@ Implemented:
 - PCA-based clustering comparison
 
 Generated output:
+
 `model_clustering.h5
 PCA_model_clustering.h5`
+
 ### 5. Classification
 Built classification models to predict cluster labels.
 
@@ -118,6 +120,7 @@ The project successfully demonstrates how clustering can be used to generate mea
 
 ---
 
-Author
+Author:
+
 Umar Shidiq Ibadurrohman
 Physics Undergraduate | Data Science & Machine Learning Enthusiast
